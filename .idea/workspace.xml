@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/21-弹幕效果/barrage_result.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-弹幕效果/barrage_result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-弹幕效果/barrage_result.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,29 +19,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="barrage_result.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.html">
+      <file leaf-file-name="css_operation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="484">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="barrage_result.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barrage_result.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.js">
+      <file leaf-file-name="css_operation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_operation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -86,6 +86,13 @@
         <option value="$PROJECT_DIR$/21-弹幕效果/barrage_result.html" />
         <option value="$PROJECT_DIR$/21-弹幕效果/barrage_result.css" />
         <option value="$PROJECT_DIR$/21-弹幕效果/barrage_result.js" />
+        <option value="$PROJECT_DIR$/01-css操作/css-operation/css-operation.html" />
+        <option value="$PROJECT_DIR$/01-css操作/css-operation.css" />
+        <option value="$PROJECT_DIR$/01-css操作/css-operation.js" />
+        <option value="$PROJECT_DIR$/01-css操作/css-operation.html" />
+        <option value="$PROJECT_DIR$/01-css操作/css_operation.html" />
+        <option value="$PROJECT_DIR$/01-css操作/css_operation.css" />
+        <option value="$PROJECT_DIR$/01-css操作/css_operation.js" />
       </list>
     </option>
   </component>
@@ -99,12 +106,14 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="747" />
+    <option name="x" value="620" />
     <option name="y" value="23" />
-    <option name="width" value="1173" />
+    <option name="width" value="1300" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,7 +130,7 @@
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="21-弹幕效果" type="462c0819:PsiDirectoryNode" />
+              <item name="01-css操作" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,6 +153,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-css操作" />
       <recent name="$PROJECT_DIR$/动态添加节点/deleteElement" />
       <recent name="$PROJECT_DIR$/动态添加节点" />
       <recent name="$PROJECT_DIR$/音乐导航" />
@@ -173,18 +183,18 @@
       <option name="presentableId" value="Default" />
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
-      <workItem from="1538963547560" duration="10803000" />
+      <workItem from="1538963547560" duration="13024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16209000" />
+    <option name="totallyTimeSpent" value="18430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="747" y="23" width="1173" height="1057" extended-state="0" />
+    <frame x="620" y="23" width="1300" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16927083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15246285" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -373,15 +383,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="154">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <caret line="20" column="33" lean-forward="true" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
         </state>
       </provider>
     </entry>
