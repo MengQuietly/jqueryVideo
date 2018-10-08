@@ -1,0 +1,12 @@
+select {
+    width: 200px;
+    background-color: teal;
+    height: 200px;
+    font-size: 20px;
+}
+
+.btn-box {
+    width: 30px;
+    display: inline-block;
+    vertical-align: top;
+}

@@ -1,0 +1,23 @@
+#box {
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+}
+
+.jquery_box{
+    width: 500px;
+    height: 40px;
+    background-color: pink;
+}
+
+.div_box {
+    /*width: 200px;*/
+    /*height: 40px;*/
+    background-color: pink;
+    /*border: red 1px solid;*/
+}
+
+.p_box {
+    background-color: yellow;
+    /*border: blue 1px solid;*/
+}
