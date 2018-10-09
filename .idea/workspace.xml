@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-css操作/css_operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/css操作/css_operation.css" beforeDir="false" afterPath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/css操作/css_operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/css操作/css_operation.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,29 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="css_operation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.html">
+      <file leaf-file-name="class_operation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="308">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css_operation.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.css">
+      <file leaf-file-name="class_operation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="242">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css_operation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.js">
+      <file leaf-file-name="class_operation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            <state relative-caret-position="330">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -93,6 +96,12 @@
         <option value="$PROJECT_DIR$/01-css操作/css_operation.html" />
         <option value="$PROJECT_DIR$/01-css操作/css_operation.css" />
         <option value="$PROJECT_DIR$/01-css操作/css_operation.js" />
+        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.html" />
+        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.css" />
+        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.js" />
+        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html" />
+        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css" />
+        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js" />
       </list>
     </option>
   </component>
@@ -106,7 +115,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="620" />
+    <option name="x" value="623" />
     <option name="y" value="23" />
     <option name="width" value="1300" />
     <option name="height" value="1057" />
@@ -119,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,17 +138,31 @@
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="01-操作样式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="01-操作样式" type="462c0819:PsiDirectoryNode" />
               <item name="01-css操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="01-操作样式" type="462c0819:PsiDirectoryNode" />
+              <item name="02-class操作" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -153,11 +175,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-操作样式" />
       <recent name="$PROJECT_DIR$/01-css操作" />
       <recent name="$PROJECT_DIR$/动态添加节点/deleteElement" />
       <recent name="$PROJECT_DIR$/动态添加节点" />
       <recent name="$PROJECT_DIR$/音乐导航" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,18 +205,19 @@
       <option name="presentableId" value="Default" />
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
-      <workItem from="1538963547560" duration="13024000" />
+      <workItem from="1538963547560" duration="13982000" />
+      <workItem from="1539055961434" duration="1646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18430000" />
+    <option name="totallyTimeSpent" value="21034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="620" y="23" width="1300" height="1057" extended-state="0" />
+    <frame x="623" y="23" width="1300" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15246285" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.151681" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -216,19 +239,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31336805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -239,6 +262,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/音乐导航/music_nav.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -314,14 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#514#518#0" expanded="true" />
-            <element signature="e#518#522#0" expanded="true" />
-            <element signature="e#554#558#0" expanded="true" />
-            <element signature="e#558#562#0" expanded="true" />
-            <element signature="e#594#598#1" expanded="true" />
-            <element signature="e#630#634#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -395,24 +431,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.css">
+    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-css操作/css_operation.js">
+    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        <state relative-caret-position="154">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="7" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

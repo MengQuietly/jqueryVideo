@@ -1,0 +1,15 @@
+
+li.basic {
+    background-color: pink;
+    font-size: 32px;
+    color: red;
+}
+
+.bigger {
+    font-size: 40px;
+}
+
+.green-color {
+    color: green;
+    font-size: 29px;
+}
