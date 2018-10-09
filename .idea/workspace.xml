@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/imgs/guojidapai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/imgs/guozhuangmingpin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/imgs/nanshijingpin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/imgs/qingjieyongpin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/tab_switch.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/tab_switch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-tab栏切换/tab_switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-操作属性/attribute_operation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-操作属性/attribute_operation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-操作属性/attribute_operation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-操作属性/img/04.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,29 +21,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tab_switch.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
+      <file leaf-file-name="attribute_operation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+            <state relative-caret-position="330">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tab_switch.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-            </state>
-          </provider>
+      <file leaf-file-name="attribute_operation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="tab_switch.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.js">
+      <file leaf-file-name="attribute_operation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="308">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -106,6 +100,10 @@
         <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.css" />
         <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.html" />
         <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.js" />
+        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.css" />
+        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.html" />
+        <option value="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" />
+        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.js" />
       </list>
     </option>
   </component>
@@ -119,7 +117,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="696" />
+    <option name="x" value="506" />
     <option name="y" value="24" />
     <option name="width" value="1300" />
     <option name="height" value="1057" />
@@ -142,7 +140,18 @@
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="03-tab栏切换" type="462c0819:PsiDirectoryNode" />
+              <item name="01-操作样式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="01-操作样式" type="462c0819:PsiDirectoryNode" />
+              <item name="01-css操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="04-操作属性" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,6 +180,7 @@
       <recent name="$PROJECT_DIR$/音乐导航" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04-操作属性/img" />
       <recent name="$PROJECT_DIR$/03-tab栏切换" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -199,12 +209,12 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="3284000" />
+      <workItem from="1539055961434" duration="4231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22672000" />
+    <option name="totallyTimeSpent" value="23619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="696" y="24" width="1300" height="1057" extended-state="0" />
@@ -431,13 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -466,6 +469,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -473,17 +486,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
+    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="154">
+          <caret line="7" column="25" lean-forward="true" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.js">
+    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="253">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-操作属性/attribute_operation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
