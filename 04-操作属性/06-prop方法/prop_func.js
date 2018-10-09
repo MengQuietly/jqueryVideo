@@ -1,7 +1,8 @@
 
 $(document).ready(function () {
 
-    //对于布尔类型的属性，不要attr方法，应该用prop方法 prop用法跟attr方法一样。
+    // 布尔类型的属性：disabled，selected，checked，只能用 prop 方法；不能使用 attr 方法；
+    // prop 用法跟 attr 方法一样。
     $("input").eq(0).click(function () {
         $("#ck").prop("checked", true);
     });
