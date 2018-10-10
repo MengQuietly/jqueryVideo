@@ -11,8 +11,6 @@ $(document).ready(function () {
             $("#box3").css("left", "0px");
         });
     });
-
-
 });
 
 

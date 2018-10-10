@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,29 +28,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom_anim.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html">
+      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="264">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_anim.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css">
+      <file leaf-file-name="accordion.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="462">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_anim.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js">
+      <file leaf-file-name="accordion.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -74,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.js" />
-        <option value="$PROJECT_DIR$/20-微博发布/release_weibo.html" />
-        <option value="$PROJECT_DIR$/20-微博发布/release_weibo.css" />
         <option value="$PROJECT_DIR$/20-微博发布/release_weibo.js" />
         <option value="$PROJECT_DIR$/21-弹幕效果/barrage_result.html" />
         <option value="$PROJECT_DIR$/21-弹幕效果/barrage_result.css" />
@@ -125,6 +128,9 @@
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css" />
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html" />
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" />
+        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" />
+        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" />
+        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" />
       </list>
     </option>
   </component>
@@ -138,7 +144,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="568" />
+    <option name="x" value="527" />
     <option name="y" value="23" />
     <option name="width" value="1352" />
     <option name="height" value="1057" />
@@ -167,7 +173,7 @@
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="08-动画" type="462c0819:PsiDirectoryNode" />
-              <item name="11-自定义动画" type="462c0819:PsiDirectoryNode" />
+              <item name="12-手风琴" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,11 +202,11 @@
       <recent name="$PROJECT_DIR$/动态添加节点/deleteElement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-动画/12-手风琴" />
       <recent name="$PROJECT_DIR$/08-动画/10-京东轮播图" />
       <recent name="$PROJECT_DIR$/05-相册画廊" />
       <recent name="$PROJECT_DIR$/04-操作属性/img" />
       <recent name="$PROJECT_DIR$/03-tab栏切换" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,18 +233,18 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="20553000" />
+      <workItem from="1539055961434" duration="21878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39941000" />
+    <option name="totallyTimeSpent" value="41266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="568" y="23" width="1352" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.16003005" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16003005" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -283,27 +289,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/音乐导航/music_nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态添加节点/addElement.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/音乐导航/music_nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -621,17 +606,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html">
+    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="264">
+          <caret line="12" column="7" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js">
+    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
