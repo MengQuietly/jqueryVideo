@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html" line="24" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,29 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="basic_anim.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html">
+      <file leaf-file-name="pulldown_menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            <state relative-caret-position="517">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic_anim.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.css">
+      <file leaf-file-name="pulldown_menu.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="652">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic_anim.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js">
+      <file leaf-file-name="pulldown_menu.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+            <state relative-caret-position="396">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -57,15 +60,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>›‹</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/动态添加节点/addElement.js" />
-        <option value="$PROJECT_DIR$/城市选择/citychoose.css" />
-        <option value="$PROJECT_DIR$/城市选择/citychoose.html" />
         <option value="$PROJECT_DIR$/城市选择/citychoose.js" />
         <option value="$PROJECT_DIR$/动态添加节点/deleteElement.html" />
         <option value="$PROJECT_DIR$/动态添加节点/deleteElement.css" />
@@ -114,6 +122,9 @@
         <option value="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.css" />
         <option value="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js" />
         <option value="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html" />
+        <option value="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js" />
+        <option value="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html" />
+        <option value="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css" />
       </list>
     </option>
   </component>
@@ -150,13 +161,18 @@
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="03-tab栏切换" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="08-动画" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="08-动画" type="462c0819:PsiDirectoryNode" />
-              <item name="08-基本动画" type="462c0819:PsiDirectoryNode" />
+              <item name="09-下拉菜单" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,21 +231,22 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="13428000" />
+      <workItem from="1539055961434" duration="16997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32816000" />
+    <option name="totallyTimeSpent" value="36385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="653" y="23" width="1267" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17132616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17094703" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -242,7 +259,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -271,13 +287,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -478,20 +487,6 @@
     <entry file="file://$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -517,16 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,13 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -589,17 +567,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js">
+    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+        <state relative-caret-position="129">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html">
+    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        <state relative-caret-position="380">
+          <caret line="21" column="41" lean-forward="true" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
         </state>
       </provider>
     </entry>
