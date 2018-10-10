@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/12-手风琴/img/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,26 +22,26 @@
       <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="396">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accordion.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="accordion.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="418">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accordion.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="accordion.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="286">
+              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -128,9 +119,9 @@
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css" />
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html" />
         <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" />
-        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" />
         <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" />
         <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" />
+        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" />
       </list>
     </option>
   </component>
@@ -233,15 +224,15 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="21878000" />
+      <workItem from="1539055961434" duration="22465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41266000" />
+    <option name="totallyTimeSpent" value="41853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="568" y="23" width="1352" height="1057" extended-state="0" />
+    <frame x="527" y="23" width="1352" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16003005" />
@@ -620,24 +611,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="396">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="418">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>

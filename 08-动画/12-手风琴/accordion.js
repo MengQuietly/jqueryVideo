@@ -11,7 +11,6 @@ $(document).ready(function () {
     }).mouseleave(function () {
         $li.stop().animate({width:240});
     });
-
 });
 
 
