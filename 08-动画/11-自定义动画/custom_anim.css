@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    position: absolute;
+}
+#box2 {
+    background-color: yellow;
+    margin-top: 150px;
+}
+
+#box3 {
+    background-color: yellowgreen;
+    margin-top: 300px;
+}
