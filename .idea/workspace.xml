@@ -1,15 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html" line="24" mnemonic="5" />
+    <bookmark url="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.html" line="24" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/imgs/guojidapai.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/imgs/guojidapai.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/imgs/guozhuangmingpin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/imgs/guozhuangmingpin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/imgs/nanshijingpin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/imgs/nanshijingpin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/imgs/qingjieyongpin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/imgs/qingjieyongpin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/tab_switch.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/tab_switch.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-tab栏切换/tab_switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/04-attribute操作/img/04.gif" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/img/04.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/1-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/1-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/2-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/2-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/3-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/3-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/4-small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/4-small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/img/placeholder.png" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/img/placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/img/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/img/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/img/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/img/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/img/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/img/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/img/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/img/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/img/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/img/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/12-手风琴/img/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/12-手风琴/img/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-微博发布/release_weibo.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/21-微博发布/release_weibo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-微博发布/release_weibo.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/21-微博发布/release_weibo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-微博发布/release_weibo.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/21-微博发布/release_weibo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-弹幕效果/barrage_result.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-弹幕效果/barrage_result.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-弹幕效果/barrage_result.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/addElement.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/addElement.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/addElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/城市选择/citychoose.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/19-城市选择/citychoose.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/城市选择/citychoose.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/19-城市选择/citychoose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/城市选择/citychoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/19-城市选择/citychoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/movie/movie01.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/movie/movie01.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/1.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/2.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/3.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/4.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/5.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/5.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/6.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/6.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/7.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/7.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/8.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/8.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/mp3/9.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/mp3/9.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/music_nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/music_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/音乐导航/music_nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,35 +115,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stop_anim.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stop_anim.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stop_anim.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,28 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-css操作/css-operation.js" />
-        <option value="$PROJECT_DIR$/01-css操作/css-operation.html" />
-        <option value="$PROJECT_DIR$/01-css操作/css_operation.html" />
-        <option value="$PROJECT_DIR$/01-css操作/css_operation.css" />
-        <option value="$PROJECT_DIR$/01-css操作/css_operation.js" />
-        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.html" />
-        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.css" />
-        <option value="$PROJECT_DIR$/01-操作样式/class操作/class_operation.js" />
-        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html" />
-        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css" />
-        <option value="$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js" />
-        <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.css" />
-        <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.html" />
-        <option value="$PROJECT_DIR$/03-tab栏切换/tab_switch.js" />
-        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.css" />
-        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.html" />
-        <option value="$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html" />
-        <option value="$PROJECT_DIR$/04-操作属性/attribute_operation.js" />
-        <option value="$PROJECT_DIR$/05-相册画廊/photo_gallery.html" />
-        <option value="$PROJECT_DIR$/05-相册画廊/photo_gallery.css" />
-        <option value="$PROJECT_DIR$/05-相册画廊/photo_gallery.js" />
-        <option value="$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.js" />
         <option value="$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.css" />
         <option value="$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.html" />
         <option value="$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.html" />
@@ -126,6 +169,28 @@
         <option value="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html" />
         <option value="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.css" />
         <option value="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.js" />
+        <option value="$PROJECT_DIR$/15-操作节点/16-音乐导航/music_nav.html" />
+        <option value="$PROJECT_DIR$/15-操作节点/20-清空&amp;删除节点/deleteElement.html" />
+        <option value="$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.html" />
+        <option value="$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.html" />
+        <option value="$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.html" />
+        <option value="$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.html" />
+        <option value="$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.html" />
+        <option value="$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.html" />
+        <option value="$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.html" />
+        <option value="$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.html" />
+        <option value="$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.html" />
+        <option value="$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.html" />
+        <option value="$PROJECT_DIR$/第二天/15-操作节点/19-城市选择/citychoose.html" />
+        <option value="$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.html" />
+        <option value="$PROJECT_DIR$/第二天/21-微博发布/release_weibo.html" />
+        <option value="$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.html" />
       </list>
     </option>
   </component>
@@ -159,17 +224,6 @@
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="08-动画" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="08-动画" type="462c0819:PsiDirectoryNode" />
-              <item name="14-停止动画" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -190,11 +244,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/第二天" />
+      <recent name="$PROJECT_DIR$/15-操作节点/20-清空&amp;删除节点" />
+      <recent name="$PROJECT_DIR$/15-操作节点" />
       <recent name="$PROJECT_DIR$/04-操作属性" />
       <recent name="$PROJECT_DIR$/04-操作属性/04-attribute操作" />
-      <recent name="$PROJECT_DIR$/01-操作样式" />
-      <recent name="$PROJECT_DIR$/01-css操作" />
-      <recent name="$PROJECT_DIR$/动态添加节点/deleteElement" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/08-动画/12-手风琴" />
@@ -228,16 +282,15 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="23265000" />
+      <workItem from="1539055961434" duration="24154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42653000" />
+    <option name="totallyTimeSpent" value="43542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="527" y="23" width="1352" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16003005" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -284,355 +337,355 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态添加节点/deleteElement/deleteElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态添加节点/addElement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-微博发布/release_weibo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-微博发布/release_weibo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="3" lean-forward="true" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-微博发布/release_weibo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/21-弹幕效果/barrage_result.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="33" lean-forward="true" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.css">
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.js">
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="7" lean-forward="true" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.css">
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/02-class操作/class_operation.js">
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.css">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.js">
+    <entry file="file://$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="25" lean-forward="true" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-操作样式/01-css操作/css_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.css">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.js">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="17" lean-forward="true" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.css">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/04-attribute操作/attribute_operation.js">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.css">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.js">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/06-prop方法/prop_func.js">
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="21" column="41" lean-forward="true" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/05-相册画廊/photo_gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-操作属性/07-表格全选/table_allchoose.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.css">
+    <entry file="file://$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="659">
           <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-tab栏切换/tab_switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/09-下拉菜单/pulldown_menu.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="3" lean-forward="true" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="13" lean-forward="true" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="7" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/12-手风琴/accordion.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" lean-forward="true" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.css">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/08-基本动画/basic_anim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.js">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="30" lean-forward="true" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.css">
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/21-微博发布/release_weibo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html">
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.js">
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/02-class操作/class_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/03-tab栏切换/tab_switch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/04-attribute操作/attribute_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/16-音乐导航/music_nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/19-城市选择/citychoose.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/20-清空&amp;删除&amp;克隆节点/deleteElement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/21-微博发布/release_weibo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
