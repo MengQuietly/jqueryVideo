@@ -1,0 +1,14 @@
+
+
+.wrapper {
+    border: blue 1px solid;
+    height: 500px;
+}
+
+.content {
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+    display: none;
+}
+
