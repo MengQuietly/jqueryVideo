@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,29 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fixed_nav.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.html">
+      <file leaf-file-name="back_top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="176">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fixed_nav.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css">
+      <file leaf-file-name="back_top.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="66">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fixed_nav.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.js">
+      <file leaf-file-name="back_top.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -74,15 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.html" />
-        <option value="$PROJECT_DIR$/08-动画/10-京东轮播图/jd_banner.js" />
-        <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.css" />
-        <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.html" />
-        <option value="$PROJECT_DIR$/08-动画/11-自定义动画/custom_anim.js" />
-        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.html" />
-        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.css" />
-        <option value="$PROJECT_DIR$/08-动画/12-手风琴/accordion.js" />
-        <option value="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.css" />
         <option value="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.js" />
         <option value="$PROJECT_DIR$/08-动画/13-动画队列/anim_queue.html" />
         <option value="$PROJECT_DIR$/08-动画/14-停止动画/stop_anim.html" />
@@ -123,8 +114,17 @@
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/04-scrollTop&amp;&amp;scrollLeft方法/scrolltop_scrollleft_func.css" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/04-scrollTop&amp;&amp;scrollLeft方法/scrolltop_scrollleft_func.js" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.html" />
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.js" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.css" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.js" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.html" />
+        <option value="$PROJECT_DIR$/第三天/06-返回顶部/back_top.css" />
+        <option value="$PROJECT_DIR$/第三天/06-返回顶部/back_top.js" />
+        <option value="$PROJECT_DIR$/第三天/06-返回顶部/back_top.html" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.html" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.css" />
+        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.js" />
       </list>
     </option>
   </component>
@@ -138,7 +138,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="539" />
+    <option name="x" value="321" />
     <option name="y" value="23" />
     <option name="width" value="1297" />
     <option name="height" value="1057" />
@@ -168,13 +168,6 @@
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="第三天" type="462c0819:PsiDirectoryNode" />
               <item name="01-特殊属性操作" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="第三天" type="462c0819:PsiDirectoryNode" />
-              <item name="01-特殊属性操作" type="462c0819:PsiDirectoryNode" />
-              <item name="05-固定导航" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
@@ -252,15 +245,15 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="31600000" />
+      <workItem from="1539055961434" duration="33031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50988000" />
+    <option name="totallyTimeSpent" value="52419000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="539" y="23" width="1297" height="1057" extended-state="0" />
+    <frame x="840" y="23" width="1297" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19984326" />
@@ -308,48 +301,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="3" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="7" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -639,24 +590,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.html">
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.css">
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="154">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/05-固定导航/fixed_nav.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-offset&amp;&amp;position方法/offset_position_func.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/06-返回顶部/back_top.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
