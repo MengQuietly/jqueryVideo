@@ -1,0 +1,49 @@
+
+* {
+    padding: 0;
+    margin: 0;
+
+}
+.topContent {
+    margin-top: 0;
+    height: 20vh;
+    background-color: #0099cc;
+}
+
+.navBar {
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+
+.page1 {
+    height: 30vh;
+    background-color: pink;
+}
+
+.page2 {
+    height: 100vh;
+    background-color: palegreen;
+}
+
+ul {
+    list-style: none;
+}
+
+.navBar li {
+    float: left;
+    width: 100px;
+    background-color: #cc6600;
+    height: 30px;
+    margin-top: 10px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
