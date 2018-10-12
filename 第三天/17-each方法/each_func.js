@@ -6,7 +6,8 @@ $(document).ready(function () {
     //     $("li").eq(i).css("opacity", (i+1)/10);
     // }
 
-    // 使用 each 方法；element：当前元素，index：当前下标；
+    // 使用 each 方法；$(selector).each(function(index,element){});
+    // element：当前元素，index：当前下标；
     $("li").each(function (index, element) {
        $(element).css("opacity", (index+1)/10);
     });

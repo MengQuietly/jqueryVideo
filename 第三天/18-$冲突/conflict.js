@@ -18,6 +18,7 @@ $(document).ready(function () {
         console.log($);
     });
 
+    // 释放$的控制权,并且把$的能力给了c
     // var $$ = $.noConflict();
     console.log($);
     // $$(function () {
