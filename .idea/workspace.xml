@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,29 +22,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="table_delete.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.html">
+      <file leaf-file-name="event_unbind.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="308">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table_delete.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="118" column="19" lean-forward="true" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
-            </state>
-          </provider>
+      <file leaf-file-name="event_unbind.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="table_delete.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.js">
+      <file leaf-file-name="event_unbind.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="506">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -74,9 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第二天/08-动画/09-下拉菜单/pulldown_menu.html" />
-        <option value="$PROJECT_DIR$/第二天/08-动画/10-京东轮播图/jd_banner.html" />
-        <option value="$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.html" />
         <option value="$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.html" />
         <option value="$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.html" />
         <option value="$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.html" />
@@ -125,6 +118,9 @@
         <option value="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.css" />
         <option value="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.html" />
         <option value="$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.js" />
+        <option value="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.css" />
+        <option value="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.js" />
+        <option value="$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.html" />
       </list>
     </option>
   </component>
@@ -180,7 +176,7 @@
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="第三天" type="462c0819:PsiDirectoryNode" />
               <item name="08-事件机制" type="462c0819:PsiDirectoryNode" />
-              <item name="10-表格删除功能" type="462c0819:PsiDirectoryNode" />
+              <item name="11-事件解绑" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,12 +236,12 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="39111000" />
+      <workItem from="1539055961434" duration="40729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58499000" />
+    <option name="totallyTimeSpent" value="60117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="617" y="23" width="1297" height="1057" extended-state="0" />
@@ -296,30 +292,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/05-相册画廊/photo_gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/06-prop方法/prop_func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/04-操作属性/07-表格全选/table_allchoose.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第二天/08-动画/08-基本动画/basic_anim.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -627,6 +599,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -634,17 +616,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.html">
+    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/10-表格删除功能/table_delete.js">
+    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/08-事件机制/11-事件解绑/event_unbind.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>
