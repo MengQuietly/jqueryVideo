@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/第三天/17-each方法/each_func.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/17-each方法/each_func.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/17-each方法/each_func.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js" beforeDir="false" afterPath="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,29 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="five_star_rating.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html">
+      <file leaf-file-name="each_func.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="462">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="five_star_rating.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css">
+      <file leaf-file-name="each_func.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+            <state relative-caret-position="264">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="five_star_rating.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js">
+      <file leaf-file-name="each_func.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="176">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -72,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/02-html&amp;text方法/html_text_func.js" />
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/03-width&amp;height方法/width_height_func.html" />
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/03-width&amp;height方法/width_height_func.css" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/03-width&amp;height方法/width_height_func.js" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/04-scrollTop&amp;&amp;scrollLeft方法/scrolltop_scrollleft_func.html" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/04-scrollTop&amp;&amp;scrollLeft方法/scrolltop_scrollleft_func.css" />
@@ -123,6 +122,9 @@
         <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html" />
         <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css" />
         <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js" />
+        <option value="$PROJECT_DIR$/第三天/17-each方法/each_func.html" />
+        <option value="$PROJECT_DIR$/第三天/17-each方法/each_func.css" />
+        <option value="$PROJECT_DIR$/第三天/17-each方法/each_func.js" />
       </list>
     </option>
   </component>
@@ -136,7 +138,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="776" />
+    <option name="x" value="623" />
     <option name="y" value="23" />
     <option name="width" value="1297" />
     <option name="height" value="1057" />
@@ -165,14 +167,7 @@
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="第三天" type="462c0819:PsiDirectoryNode" />
-              <item name="15-链式编程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
-              <item name="第三天" type="462c0819:PsiDirectoryNode" />
-              <item name="15-链式编程" type="462c0819:PsiDirectoryNode" />
-              <item name="16-五星评分" type="462c0819:PsiDirectoryNode" />
+              <item name="17-each方法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,15 +227,15 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="48134000" />
+      <workItem from="1539055961434" duration="48920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67522000" />
+    <option name="totallyTimeSpent" value="68308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="776" y="23" width="1297" height="1057" extended-state="0" />
+    <frame x="623" y="23" width="1297" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19984326" />
@@ -288,23 +283,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/01-val方法/val_func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/02-html&amp;text方法/html_text_func.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三天/01-特殊属性操作/01-val方法/val_func.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -604,6 +582,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="47" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -611,17 +596,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html">
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="15" column="7" lean-forward="true" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js">
+    <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="462">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/17-each方法/each_func.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
