@@ -11,7 +11,7 @@ $(document).ready(function () {
        $(this).text(star_s).prevAll().text(star_s);
         $(this).nextAll().text(star_k);
 
-        // end() 回到上一次操作；
+        // end() ：回复到上一次的状态，并且返回匹配元素之前的状态。
         // $(this).text(star_s).prevAll().text(star_s).end().nextAll().text(star_k);
     });
 
