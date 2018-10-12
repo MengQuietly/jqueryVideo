@@ -14,6 +14,8 @@ $(document).ready(function () {
     $(".backTop").click(function () {
         // window 无 scrollTop() 方法；
         $("html,body").animate({scrollTop: 0}, 2000);
+        // scrollTop为0
+        // $(window).scrollTop(0); // 这样无动画效果
     });
 
 
