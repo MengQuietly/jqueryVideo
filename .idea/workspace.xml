@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09a4b95a-8ae7-4103-a656-725b86b702af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/第三天/14-delay用法/delay_func.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/14-delay用法/delay_func.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/第三天/14-delay用法/delay_func.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,29 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="delay_func.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.html">
+      <file leaf-file-name="five_star_rating.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="242">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delay_func.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.css">
+      <file leaf-file-name="five_star_rating.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="396">
+              <caret line="18" lean-forward="true" selection-start-line="17" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delay_func.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.js">
+      <file leaf-file-name="five_star_rating.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="550">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -74,12 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/第二天/22-弹幕效果/barrage_result.html" />
-        <option value="$PROJECT_DIR$/第三天/01-val方法/val_func.css" />
-        <option value="$PROJECT_DIR$/第三天/01-val方法/val_func.html" />
-        <option value="$PROJECT_DIR$/第三天/01-val方法/val_func.js" />
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/02-html&amp;text方法/html_text_func.css" />
-        <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/02-html&amp;text方法/html_text_func.html" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/02-html&amp;text方法/html_text_func.js" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/03-width&amp;height方法/width_height_func.html" />
         <option value="$PROJECT_DIR$/第三天/01-特殊属性操作/03-width&amp;height方法/width_height_func.css" />
@@ -125,6 +119,12 @@
         <option value="$PROJECT_DIR$/第三天/14-delay用法/delay_func.html" />
         <option value="$PROJECT_DIR$/第三天/14-delay用法/delay_func.css" />
         <option value="$PROJECT_DIR$/第三天/14-delay用法/delay_func.js" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.css" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.html" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.js" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css" />
+        <option value="$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js" />
       </list>
     </option>
   </component>
@@ -162,6 +162,19 @@
               <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
               <item name="第三天" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="第三天" type="462c0819:PsiDirectoryNode" />
+              <item name="15-链式编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jqueryVideoStudent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jqueryVideoStudent" type="462c0819:PsiDirectoryNode" />
+              <item name="第三天" type="462c0819:PsiDirectoryNode" />
+              <item name="15-链式编程" type="462c0819:PsiDirectoryNode" />
+              <item name="16-五星评分" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,15 +234,15 @@
       <updated>1538212177628</updated>
       <workItem from="1538212179133" duration="5406000" />
       <workItem from="1538963547560" duration="13982000" />
-      <workItem from="1539055961434" duration="46273000" />
+      <workItem from="1539055961434" duration="47674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65661000" />
+    <option name="totallyTimeSpent" value="67062000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="23" width="1297" height="1057" extended-state="0" />
+    <frame x="434" y="23" width="1297" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19984326" />
@@ -277,48 +290,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/11-自定义动画/custom_anim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/12-手风琴/accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/13-动画队列/anim_queue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/08-动画/14-停止动画/stop_anim.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/15-操作节点/15-动态创建节点/addElement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第二天/01-操作样式/01-css操作/css_operation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -597,6 +568,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -604,17 +585,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/第三天/14-delay用法/delay_func.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" lean-forward="true" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/15-链式编程/method_chaining.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="3" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三天/15-链式编程/16-五星评分/five_star_rating.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>

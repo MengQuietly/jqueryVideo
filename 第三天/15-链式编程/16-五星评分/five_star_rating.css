@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.comment {
+    font-size: 40px;
+    color: #ff16cf;
+}
+
+ul {
+    list-style: none;
+}
+
+.comment li {
+    float: left;
+}
+
