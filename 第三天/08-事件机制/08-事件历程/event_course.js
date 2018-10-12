@@ -33,7 +33,7 @@ $(document).ready(function () {
     //     alert("delegate事件：click");
     // });
 
-    // 4）on事件：
+    // 4）on事件：on(types, selector, data, callback);
     // 1> p 给 自己注册的事件（简单事件，动态创建的标签不会添加事件）;
     $("p").on("click", function () {
         alert("on事件1：click");
