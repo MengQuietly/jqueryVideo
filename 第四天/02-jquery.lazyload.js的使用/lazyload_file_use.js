@@ -5,5 +5,4 @@ $(document).ready(function () {
     // $("image.lazy").lazyload();
     $(".lazy").lazyload();
 
-
 });
